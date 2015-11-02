@@ -11,7 +11,7 @@
 # Pull base image
 # ---------------
 #FROM skat/weblogic-base-mft-jdk7u79:10.3.6
-FROM wls11g_domain7
+FROM skat/weblogic-base-mft-jdk7u79:10.3.6
 
 # MAINTAINER
 # ----------
